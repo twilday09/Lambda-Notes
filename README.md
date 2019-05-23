@@ -18,3 +18,8 @@ My name is Joshua and currently as of todays date, I am a 24 year old full time 
 * Continued development of new technologies
 * How to effectively sort and manage time to better efficiency and productivity
 * Working in a team and progressing from student/apprentice to journeymen to senior level mechanics
+
+I currently am a part-time Full-Stack Web Development student and Lambda School (https://lambdaschool.com/) and I simply want to be able to stand out and contribute back to the community I very much want to be a part of. Thank you so much, and enjoy!
+
+## Sincerely,
+### -Joshua A. Vandergriff
