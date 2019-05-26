@@ -6,13 +6,11 @@
   * Operators
 
 * Numbers (Integers)
-  * What do integers look like?
   * Interger methods
   * Integer excercises
   * Answers to Integer Excercises
 
 * Strings
-  * What are strings used for?
   * Methods for strings
   * String excercise
 
