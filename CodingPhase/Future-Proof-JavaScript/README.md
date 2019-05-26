@@ -15,7 +15,7 @@
   * String excercise
 
 * Arrays
-  * What is an array?
+  * What are arrays?
   * Array methods
   * Array excercises
   * Array excercises answers
